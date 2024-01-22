@@ -16,3 +16,5 @@ mayor.
 
 4. Diseñar una función a la que se le pase una cadena de caracteres y la devuelva invertida.
 Un ejemplo, la cadena “Hola mundo” quedaría “odnum aloH”.
+
+He modificado el ejercicio 4 cambiando el nombre de las variables ya que no se entendian y poniendo de forma optima todo el código
